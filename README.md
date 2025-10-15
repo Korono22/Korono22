@@ -1,5 +1,5 @@
 # 💫 About Me:
-I just finished school with IT Technician title and I'm looking forward to keep learning more in IT world
+An SQL and Python progammist.
 
 
 ## 🌐 Socials:
